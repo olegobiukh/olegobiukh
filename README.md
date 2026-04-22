@@ -7,10 +7,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olegobiukh&theme=github_dark" width="415" />
 </p>
 
-
-### 🛠️ Tech Stack & Detailed Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olegobiukh&layout=donut&theme=tokyonight&hide=html,css" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=olegobiukh&show_icons=true&theme=tokyonight" width="400" />
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
+
+### 📈 Activity
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegobiukh&theme=github_dark" width="100%" />
