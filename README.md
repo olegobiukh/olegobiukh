@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegobiukh&theme=github_dark" width="850" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olegobiukh&theme=github_dark" width="415" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olegobiukh&theme=github_dark" width="415" />
-</p>
-
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -17,4 +8,4 @@
 </p>
 
 ### 📈 Activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegobiukh&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegobiukh&theme=github_dark" width="850" />
