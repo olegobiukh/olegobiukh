@@ -1,4 +1,6 @@
-### 🛠️ Tech Stack
+## 📈 Activity
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegobiukh&theme=github_dark" width="850" />
+## 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -7,5 +9,3 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-### 📈 Activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegobiukh&theme=github_dark" width="850" />
