@@ -7,8 +7,10 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegobiukh&theme=transparent">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegobiukh&theme=solarized_light">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegobiukh&theme=transparent" width="850">
 </picture>
+</p>
