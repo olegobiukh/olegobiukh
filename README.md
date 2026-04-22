@@ -7,5 +7,4 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegobiukh&theme=github_dark" width="850" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegobiukh" width="850" />
